@@ -10,8 +10,8 @@ fceux - Emulador NES win64 binary
 Comando para compilar a demo. em demo.nes utilizando o cc65
 * C:\\cc65\\bin\\cl65 demo.s --verbose --target nes -o demo.nes
 
-
-![imagem da rom compilada](https://github.com/JonanthaW//6502-assembly/blob/main/cc65 comp/hello.png)
+### ROM Compilada
+![ROM Compilada](https://github.com/JonanthaW/6502-assembly/blob/main/cc65%20comp/hello.PNG)
 
 # Referências
 
